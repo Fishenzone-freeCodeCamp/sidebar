@@ -1,1 +1,1 @@
-# [Sidebar](https://fishenzone.github.io/sidebar/)
+# [Sidebar](https://fishenzone-freecodecamp.github.io/sidebar/)
